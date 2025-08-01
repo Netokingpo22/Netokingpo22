@@ -260,5 +260,7 @@ Apasionado por crear APIs robustas, seguras y bien estructuradas. Busco oportuni
 
 ## 📂 Proyectos destacados
 
-- **API REST con Spring Boot y JWT**  
-  [Desarrollo de API segura con autenticación, validación, persistencia en MySQL y pruebas unitarias básicas.  ](https://github.com/Netokingpo22/springboot-jwt-api)
+- **API REST segura con Spring Boot y JWT**  
+  [Implementación de una API REST utilizando Spring Boot, con autenticación basada en JWT, validación de datos, persistencia en MySQL, documentación con Swagger/OpenAPI, y pruebas unitarias con JUnit y Mockito.](https://github.com/Netokingpo22/springboot-jwt-api)
+- **Sistema de reportes con GraphQL y control de roles**  
+  [Desarrollo de una API GraphQL segura con Spring Boot, gestión avanzada de roles y permisos, persistencia en MySQL, y uso de Spring Security para control de acceso. Incluye configuración de auditoría y pruebas automatizadas.](https://github.com/Netokingpo22/graphql-report-api)
